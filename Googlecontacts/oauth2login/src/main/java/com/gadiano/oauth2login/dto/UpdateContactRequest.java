@@ -1,5 +1,5 @@
 // UpdateContactRequest.java
-package com.arela.oauth2login.dto;
+package com.gadiano.oauth2login.dto;
 
 import java.util.List;
 
